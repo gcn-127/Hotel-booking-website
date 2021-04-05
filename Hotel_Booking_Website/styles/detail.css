@@ -1,0 +1,31 @@
+body{
+    width: 100%;
+    height: 100%; 
+    background-color: #e0e0e0;
+    margin: 0px;
+}
+#logo{
+    height: 60px;
+    width: 60px;
+}
+.hotels{
+    height: 500px;
+    width: 500px;
+    margin: 2% 4% 0% 4% ;
+}
+.social-media{
+    height: 20px;
+    width: 22px;
+}
+header{
+    background-color: rosybrown;
+}
+footer{
+    background-color: rosybrown;
+}
+#book1{
+    margin: 0% 4% 1% 4% ; 
+}
+.details{
+    margin: 1% 4% 2% 4%;
+}
